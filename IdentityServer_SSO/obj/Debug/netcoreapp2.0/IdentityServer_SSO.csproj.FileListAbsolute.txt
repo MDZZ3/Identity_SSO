@@ -1,0 +1,11 @@
+c:\users\mdzz\source\repos\IdentityServer_SSO\IdentityServer_SSO\bin\Debug\netcoreapp2.0\IdentityServer_SSO.deps.json
+c:\users\mdzz\source\repos\IdentityServer_SSO\IdentityServer_SSO\bin\Debug\netcoreapp2.0\IdentityServer_SSO.runtimeconfig.json
+c:\users\mdzz\source\repos\IdentityServer_SSO\IdentityServer_SSO\bin\Debug\netcoreapp2.0\IdentityServer_SSO.runtimeconfig.dev.json
+c:\users\mdzz\source\repos\IdentityServer_SSO\IdentityServer_SSO\bin\Debug\netcoreapp2.0\IdentityServer_SSO.dll
+c:\users\mdzz\source\repos\IdentityServer_SSO\IdentityServer_SSO\obj\Debug\netcoreapp2.0\IdentityServer_SSO.csprojResolveAssemblyReference.cache
+c:\users\mdzz\source\repos\IdentityServer_SSO\IdentityServer_SSO\obj\Debug\netcoreapp2.0\IdentityServer_SSO.csproj.CoreCompileInputs.cache
+c:\users\mdzz\source\repos\IdentityServer_SSO\IdentityServer_SSO\obj\Debug\netcoreapp2.0\IdentityServer_SSO.AssemblyInfoInputs.cache
+c:\users\mdzz\source\repos\IdentityServer_SSO\IdentityServer_SSO\obj\Debug\netcoreapp2.0\IdentityServer_SSO.AssemblyInfo.cs
+c:\users\mdzz\source\repos\IdentityServer_SSO\IdentityServer_SSO\bin\Debug\netcoreapp2.0\IdentityServer_SSO.pdb
+c:\users\mdzz\source\repos\IdentityServer_SSO\IdentityServer_SSO\obj\Debug\netcoreapp2.0\IdentityServer_SSO.dll
+c:\users\mdzz\source\repos\IdentityServer_SSO\IdentityServer_SSO\obj\Debug\netcoreapp2.0\IdentityServer_SSO.pdb
